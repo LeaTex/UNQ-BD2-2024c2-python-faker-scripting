@@ -1,0 +1,6 @@
+.vscode/
+.venv/
+__pycache__/
+.env
+.ipynb_checkpoints/
+makeproject.cmd
